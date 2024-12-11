@@ -10,7 +10,6 @@ dependencies = [
     "safetensors>=0.4.5",
     "hf-transfer>=0.1.8",
     "tqdm>=4.67.1",
-    "lightning>=2.4.0",
     "transformers>=4.47.0",
     "diffusers>=0.31.0",
     "litserve>=0.2.5",
